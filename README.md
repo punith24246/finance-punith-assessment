@@ -79,7 +79,7 @@ finance-backend/
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/LAKAVATHRAGHURAM/finance-data-processing-backend.git
+git clone https://github.com/punith24246/finance-data-processing-backend.git
 
 cd finance-backend
 ```
